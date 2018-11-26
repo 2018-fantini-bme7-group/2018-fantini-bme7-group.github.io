@@ -1,0 +1,95 @@
+Fri 16/11
+
+<p>For the rest of the semester, we split the tasks between the three group members such that each group member takes on one primary role. To play to each of our strengths, we split the tasks as follows:<p>
+<ul>
+	<li>Nelson will work on improving the hand cut mesh prototype that we presented today. This will include fixing the bolt design to sand them down to improve the prototype flexibility. It will also include improving the strapping mechanism. Moreover, he will continue working with Thao and Giles on the CAD design and modify the prototype as we collect data. </li>
+	<li>Brad will be working on the whole head helmet design - specifically working on and implementing a design to attach the mesh to the cap. He has set up a meeting with Bray this coming Monday to 3D print the mesh in nylon.</li>
+	<li>In the coming week, Faith will meet with Thao and Giles to start the process of data acquisition with the prototype. Once Giles sends us the SolidWorks file for the fibre holders, we will be able to print a few more copies to populate the prototype. Moreover, within the next day or so, we will push the website to GitLab and email you the link.
+</ul>
+
+
+> Hello Prof. Fanitini,<ul>
+>
+> As we discussed in the meeting, this is our game plan for what each group member will be doing over the next couple of weeks:
+>
+> In terms of class assignments, we will have the revised proposal and the website skeleton due on Wednesday.
+>
+> We will keep you updated on the progress of all these tasks.
+>
+> Let us know if you have any questions. 
+>
+> Best,
+> Brad, Nelson and Faith.
+
+Fri 9/11
+
+<p>This week we were able to develop a cluster prototype. This utilised a hand-cut mwsh design of the for things out of Ultra High Molecular Weight (UHMW) polyetthelene.<p>
+<figure>
+	<img src="../html/pic_trulli.jpg" alt="Trulli" style="width:100%">
+	<figcaption>This is a side by side image of teh 2 x 2 cluster made using teh UHMW polyethekeb</figcaption>
+</figure>
+Fri 26/10
+
+Hello Professor Fantini,
+
+ 
+
+As we discussed in today's meeting, this last week, we have created the CAD for both the 3d-printed and laser cut versions of our initial mesh designs. Early in the coming week, we plan on printing both versions so we have physical prototypes. We will update you on our progress on this in our next update email.
+
+ 
+
+In relation to class assignments, we are working on the revised design report and the project proposal, both due next Friday. We are currently waiting to here back from Prof. Timko about the format he would like for the project proposal, but either way, we will have a working version of both assignments in to you before the due date.
+
+ 
+
+We are also working on the website and we could preview the website skeleton during next week's meeting.
+
+ 
+
+In summation, over the next week we be working on producing physical prototypes of the mesh, finalising the website skeleton and completing the two class assignments.
+
+ 
+
+Let us know how this sounds.
+
+ 
+
+Best,
+
+Nelson, Brad and Faith.
+
+Thu 11/10
+
+ Hello Professor Fantini,
+
+We hope you are doing well. We just wanted to give you a brief update on our progress and where we are in the project.
+
+After last week's discussion with Giles about the spatial orientation of the device and its probes, we had a brainstorming session where we discussed the idea of diamond/interlocking meshes for one cluster block. Nelson has been working on a CAD design to visualise the idea which should be realised in time for our next meeting. In our next meeting, we plan to assess the visualised design idea to determine its strengths and shortcomings for our purposes. Moreover, we have also been looking more into the idea of a silicon cap and how to remedy the robustness of the probes with the flexibility of the cap. Although we think the interlocking design will combat this, the juxtaposition will be an important part of our assessment of the mesh structure.
+
+The next big assignment (except the project proposal due on October the 26th) is the website. We have started work on a skeleton for the group website which we will make more functional in the coming weeks.
+
+Let us know how all of this sounds.
+
+Best,
+Nelson, Brad and Faith.
+
+
+
+Wed 03/10
+
+> Hello Professor Fantini,
+>
+> This is our group check-in for this week. 
+>
+> We are just updating you on the situation. We attempted to get lab access but we need to do a lab safety course- we contacted Laura about this and in the meantime we will just have Thao or Giles swipe us in.
+>
+> Also, we have updated our scheduled meeting times. We will meet Wednesdays from 10:30- 12pm and Fridays from 11am onwards. 
+>
+> Finally, this Wednesday we were brainstorming on headset ideas and one of our most promising designs involved a silicon cap with interlocking 3d- printed meshes to hold the clusters in place. 
+>
+> We however need to meet with Giles and clarify if the sensor's ability to gather data depends on the spatial orientation of each cluster to one another- this will impact the mesh design.
+>
+> Let us know how all of this sounds and we will be looking forward to hearing from you soon!
+>
+> Best,
+> Faith, Brad, and Nelson
